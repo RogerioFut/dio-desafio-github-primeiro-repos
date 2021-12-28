@@ -1,0 +1,15 @@
+Link para download do Git
+
+https://git-scm.com/
+
+O git bash é um terminal extendido para otimizar o Git
+
+
+git status
+
+git add .
+
+git commit -m "texto msg"
+
+git push origin main
+
